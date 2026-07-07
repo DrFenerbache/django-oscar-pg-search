@@ -3,3 +3,4 @@ include LICENSE
 include VERSION
 include tests/*
 recursive-include src/oscar_pg_search/templates *.html
+recursive-include src/oscar_pg_search/migrations *.py
